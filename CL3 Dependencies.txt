@@ -1,0 +1,8 @@
+Dependencies for CL3:
+
+1. Pyro4 (pip install Pyro4)
+2. Scikit-Learn (pip install scikit-learn)
+3. Deap (pip install deap)
+4. TensorFlow (pip install tensorflow)
+5. Python Imaging Library (pip install pillow)
+6. MRJob (pip install mrjob)
